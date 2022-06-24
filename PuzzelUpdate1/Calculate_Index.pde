@@ -1,5 +1,4 @@
 class getIndex {
-
     int[] giveMe(int Value) {
       int[] val= new int [2];
       for (int y = 0; y < n; y++) {
